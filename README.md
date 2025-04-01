@@ -1,10 +1,10 @@
-﻿# 🏠 California House Price Predictor
+﻿# California House Price Predictor
 
 This is a simple machine learning web app built with **Streamlit** that predicts California house prices based on input features such as income, house age, population, location, and more.
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔢 Predicts house prices using a trained **Random Forest** model  
 - 🎛️ Interactive sliders to input house data  
@@ -13,7 +13,7 @@ This is a simple machine learning web app built with **Streamlit** that predicts
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 Install the required Python packages using:
 
@@ -32,4 +32,4 @@ http://localhost:8501
 ```
 ## Deploying Online
 You can deploy this app online for free using Streamlit Cloud.
-Just link this GitHub repo, set app.py as the main file, and hit Deploy. 🎉
+Just link this GitHub repo, set app.py as the main file, and hit Deploy.
